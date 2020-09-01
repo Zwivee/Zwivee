@@ -61,7 +61,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Zwivee's Github Stats" src="https://github-readme-stats.zwivee.vercel.app/api?username=Zwivee&show_icons=true&hide_border=true" />
 
 </details>
 
