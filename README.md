@@ -49,12 +49,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1.
-2.
-3.
-4.
-5.
-<!--END_SECTION:activity-->
+
 </details>
 
 <details>
