@@ -5,7 +5,7 @@ Follow](https://img.shields.io/twitter/follow/Zwivix?color=1DA1F2&logo=twitter&s
 
 ---
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Husband, Developer, and Teacher!
 
 - 🔭 I’m currently working on a Discord bot in Python!
 - 🌱 I’m currently learning python 🤣
@@ -52,8 +52,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 
 
-
-<!--END_SECTION:activity-->
 </details>
 
 <details>
