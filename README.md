@@ -52,7 +52,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 
 
-
+<!--END_SECTION:activity-->
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Zwivee's Github Stats" src="https://github-readme-stats.zwivee.vercel.app/api?username=Zwivee&show_icons=true&hide_border=true" />
