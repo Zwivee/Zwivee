@@ -54,7 +54,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 </details>
 
-[discord]:
 [twitter]: https://twitter.com/Zwivix
 [instagram]: https://instagram.com/tonio.mart
 [linkedin]: https://linkedin.com/in/antonioamartinez
