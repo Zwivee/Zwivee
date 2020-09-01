@@ -4,7 +4,7 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!
 
-- 🔭 I’m currently working on a hardening Ubuntu Operating System effort!
+- 🔭 I’m currently working on a Discord bot in Python!
 - 🌱 I’m currently learning python 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
