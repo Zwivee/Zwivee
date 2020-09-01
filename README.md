@@ -49,6 +49,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com//Zwivee/Python-Stock-Tracker/issues/1) in [Zwivee/Python-Stock-Tracker](https://github.com//Zwivee/Python-Stock-Tracker)
+<!--END_SECTION:activity-->
 
 </details>
 
