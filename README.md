@@ -10,8 +10,8 @@ Follow](https://img.shields.io/twitter/follow/Zwivix?color=1DA1F2&logo=twitter&s
 - 🔭 I’m currently working on a Discord bot in Python!
 - 🌱 I’m currently learning python 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to mountain bike and cook!
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: Knifes and power tools are my passion!
 
 ---
 ### Connect with me:
