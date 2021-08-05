@@ -49,7 +49,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#29](https://github.com/Zwivee/AttendanceBot/issues/29) in [Zwivee/AttendanceBot](https://github.com/Zwivee/AttendanceBot)
+1. ❗️ Opened issue [#32](https://github.com/Zwivee/AttendanceBot/issues/32) in [Zwivee/AttendanceBot](https://github.com/Zwivee/AttendanceBot)
 <!--END_SECTION:activity-->
 
 </details>
